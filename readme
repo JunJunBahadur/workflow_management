@@ -1,0 +1,11 @@
+This folder aims to create the react front end and nodejs backend to function proplerly
+
+react client dependencies:
+axios
+@azure/msal-browser
+react-router-dom --save
+
+node server dependencies:
+cors
+mime-types
+express
